@@ -1,0 +1,25 @@
+{
+  "screens": 33,
+  "pages": 3,
+  "instances": 132,
+  "potentialLinks": 186,
+  "selfNavigationSkipped": true,
+  "screensCreated": true,
+  "visualChecks": [
+    "Foundation cover",
+    "Reusable component specimens",
+    "Home",
+    "Checkout corrected",
+    "Risk scenario corrected",
+    "Research strategy board"
+  ],
+  "fixes": [
+    "41 field instance overrides corrected using component properties",
+    "Navigation resized to342x62"
+  ],
+  "limitations": [
+    "Figma Starter MCP quota reached before overlay creation and final whole-file audit.",
+    "One Figma documentation board mentions an overlay planned for the last step; it was not created.",
+    "Figma is representative state navigation; financial computation and actual input run in HTML."
+  ]
+}

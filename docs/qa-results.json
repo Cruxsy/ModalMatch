@@ -1,0 +1,240 @@
+{
+  "runAt": "2026-11-27T14:26:07.385Z",
+  "passed": 58,
+  "total": 58,
+  "scope": "Financial unit tests, catalog audit, Smart Funding Match and dilution tests, and lightweight view/action integration checks; not a real browser test.",
+  "results": [
+    {
+      "name": "BCA Rp30m /36 flat 1.07% matches independently calculated Rp1,154,333.33",
+      "passed": true
+    },
+    {
+      "name": "BCA official tenor rate schedule is applied",
+      "passed": true
+    },
+    {
+      "name": "Known upfront fees include stamp and minimum provision",
+      "passed": true
+    },
+    {
+      "name": "BCA known totals and net disbursed are distinct",
+      "passed": true
+    },
+    {
+      "name": "Annuity official BNI example 100m/6%/36 rounded 3,042,194",
+      "passed": true
+    },
+    {
+      "name": "Annuity 50m/6%/36 rounded 1,521,097",
+      "passed": true
+    },
+    {
+      "name": "Zero interest payment equals principal/months",
+      "passed": true
+    },
+    {
+      "name": "Effective fixed-principal schedule decreases interest",
+      "passed": true
+    },
+    {
+      "name": "Amortization principal sums to original principal",
+      "passed": true
+    },
+    {
+      "name": "Unknown rate prevents installment estimation",
+      "passed": true
+    },
+    {
+      "name": "Unknown fees remain incomplete, not zero all-in cost",
+      "passed": true
+    },
+    {
+      "name": "Conditional admin percentage is counted in known fees",
+      "passed": true
+    },
+    {
+      "name": "Personal cash and capacity independent control",
+      "passed": true
+    },
+    {
+      "name": "Personal 30% salary shock independent control",
+      "passed": true
+    },
+    {
+      "name": "UMKM initial cash excludes owner draw and reserve",
+      "passed": true
+    },
+    {
+      "name": "UMKM shock scales variable but not fixed costs",
+      "passed": true
+    },
+    {
+      "name": "UMKM operating cost rise and debt applied after variable scaling",
+      "passed": true
+    },
+    {
+      "name": "Emergency balance is not treated as monthly income",
+      "passed": true
+    },
+    {
+      "name": "Within BCA published parameters gives fit",
+      "passed": true
+    },
+    {
+      "name": "Above maximum and below minimum give no",
+      "passed": true
+    },
+    {
+      "name": "Invalid product tenor rejected",
+      "passed": true
+    },
+    {
+      "name": "Insufficient capacity rejected for calculable product",
+      "passed": true
+    },
+    {
+      "name": "Missing membership never claims confirmed eligibility",
+      "passed": true
+    },
+    {
+      "name": "Conditional KUR never becomes guaranteed quote",
+      "passed": true
+    },
+    {
+      "name": "Business age and collateral hard filters work",
+      "passed": true
+    },
+    {
+      "name": "Investment vs working capital tenors differ",
+      "passed": true
+    },
+    {
+      "name": "Archived DBS is never matched as active",
+      "passed": true
+    },
+    {
+      "name": "No-result scenario truly fails all relevant products",
+      "passed": true
+    },
+    {
+      "name": "Alternative for 500k capacity calculated, not random",
+      "passed": true
+    },
+    {
+      "name": "Alternative rejects loan below product minimum",
+      "passed": true
+    },
+    {
+      "name": "Changing amount changes monthly payments consistently",
+      "passed": true
+    },
+    {
+      "name": "EIR zero-fee annualization matches 12 monthly nominal percent",
+      "passed": true
+    },
+    {
+      "name": "Invalid calculation inputs do not create spurious installments",
+      "passed": true
+    },
+    {
+      "name": "Revenue exactly three proposal streams plus operating subtraction",
+      "passed": true
+    },
+    {
+      "name": "BEP counts reports after referral and Boost revenue are included",
+      "passed": true
+    },
+    {
+      "name": "Catalog source and completeness audit",
+      "passed": true
+    },
+    {
+      "name": "SCF readiness checklist scores complete inputs as 100 and green-ready",
+      "passed": true
+    },
+    {
+      "name": "SCF equity unwillingness blocks equity crowdfunding match",
+      "passed": true
+    },
+    {
+      "name": "Equity dilution calculates investor and existing ownership",
+      "passed": true
+    },
+    {
+      "name": "Funding matcher keeps personal credit users outside SCF matching",
+      "passed": true
+    },
+    {
+      "name": "UMKM funding match identifies SCF as exploratory when readiness is high and bank data needs confirmation",
+      "passed": true
+    },
+    {
+      "name": "Funding match does not mark SCF ready when checklist is incomplete",
+      "passed": true
+    },
+    {
+      "name": "Funding match recommends both paths when bank fit and SCF readiness is complete",
+      "passed": true
+    },
+    {
+      "name": "Funding match explains bank confirmation when SCF is not ready",
+      "passed": true
+    },
+    {
+      "name": "All twelve application views render without exceptions",
+      "passed": true
+    },
+    {
+      "name": "Welcome screen and local account forms render",
+      "passed": true
+    },
+    {
+      "name": "Revenue projection matches proposal targets for three years",
+      "passed": true
+    },
+    {
+      "name": "Search filters local catalog dynamically",
+      "passed": true
+    },
+    {
+      "name": "Comparison renders known cost and unknown EIR",
+      "passed": true
+    },
+    {
+      "name": "Payment failure does not unlock report; success does exactly once",
+      "passed": true
+    },
+    {
+      "name": "Paid report freezes profile values and renders financial results",
+      "passed": true
+    },
+    {
+      "name": "Referral records only prepared demo; revenue inputs unchanged",
+      "passed": true
+    },
+    {
+      "name": "UMKM journey uses different inputs and calculations",
+      "passed": true
+    },
+    {
+      "name": "Funding page visibly marks recommended SCF route green for complete readiness",
+      "passed": true
+    },
+    {
+      "name": "Funding page explains personal users cannot use SCF matching",
+      "passed": true
+    },
+    {
+      "name": "Funding page turns SCF equity status red when owner refuses dilution",
+      "passed": true
+    },
+    {
+      "name": "No-results view and computed alternatives render",
+      "passed": true
+    },
+    {
+      "name": "Input validation rejects negatives and empty revenue",
+      "passed": true
+    }
+  ]
+}

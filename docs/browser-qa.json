@@ -1,0 +1,36 @@
+{
+  "runAt": "2026-11-27",
+  "status": "passed_with_scope_limits",
+  "method": "Headless Chromium using an in-memory HTML harness with local assets inlined; not a hosted deployment test.",
+  "visualChecks": {
+    "desktopWelcome": true,
+    "desktopHome": true,
+    "desktopRevenueProjection": true,
+    "desktopFinderForm": true,
+    "mobileWelcome": true,
+    "mobileHome": true
+  },
+  "interactionChecks": {
+    "guestEntry": true,
+    "signupAndLoginFlow": "Passed using a deterministic passwordDigest stub in the browser harness; actual PBKDF2 was separately verified with Node WebCrypto.",
+    "logoutAndExistingAccountScreen": true,
+    "allMainViewsRender": true,
+    "umkmFundingComparison": true,
+    "revenueProjectionRecalculatesOnInput": true,
+    "noRuntimeConsoleOrPageErrors": true
+  },
+  "responsive": {
+    "mobileViewport": "390x844",
+    "horizontalOverflow": false
+  },
+  "security": {
+    "passwordHash": "PBKDF2-HMAC-SHA-256, 120000 iterations, 16-byte random salt, 256-bit derived output; separately verified with Node WebCrypto.",
+    "accountScope": "Local browser only; no backend, server authentication, or cross-device synchronization.",
+    "note": "The browser harness used an auth digest stub only for the signup/login UI flow because the harness runs on an opaque about:blank origin without WebCrypto. The delivered app retains the real WebCrypto PBKDF2 implementation."
+  },
+  "limitations": [
+    "The delivered file:// package was not opened directly in the sandbox browser due environment navigation restrictions; assets were loaded into an in-memory browser harness.",
+    "No backend, online authentication, payment gateway, bank submission, or live bank data feed is included.",
+    "This QA is a prototype smoke test, not a production penetration test or full cross-browser acceptance test."
+  ]
+}

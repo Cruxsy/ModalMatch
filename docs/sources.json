@@ -1,0 +1,162 @@
+[
+  {
+    "id": "S1",
+    "name": "OJK–LPS–BPS: SNLIK 2026",
+    "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Hasil-SNLIK-Tahun-2026.aspx",
+    "kind": "market",
+    "keyFinding": "Literasi 69,57%; inklusi 93,61%; 75.000 responden. Rilis 11 Agustus 2026.",
+    "reference": "turn3055347view0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S2",
+    "name": "OJK–BPS: SNLIK 2025",
+    "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-dan-BPS-Umumkan-Hasil-Survei-Nasional-Literasi-Dan-Inklusi-Keuangan-SNLIK-Tahun-2025.aspx",
+    "kind": "market",
+    "keyFinding": "Cakupan DNKI 66,64% dan 92,74%; berbeda dari metode keberlanjutan.",
+    "reference": "turn2667785search0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S3",
+    "name": "OJK: Latar belakang PAJK",
+    "url": "https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-Terbitkan-Peraturan-Penyelenggara-Agregasi-Jasa-Keuangan.aspx",
+    "kind": "market",
+    "keyFinding": "Agregasi membantu perbandingan dan pemilihan sesuai profil/kebutuhan.",
+    "reference": "turn2667785search4",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S4",
+    "name": "BCA Personal Loan",
+    "url": "https://www.bca.co.id/id/Individu/produk/pinjaman/Pinjaman-Personal",
+    "kind": "competitor",
+    "keyFinding": "Bunga flat retail bergantung tenor; biaya dan tabel simulasi tersedia.",
+    "reference": "turn3055347search0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S5",
+    "name": "OJK Buku 5: Lembaga Pembiayaan",
+    "url": "https://sikapiuangmu.ojk.go.id/FrontEnd/images/FileDownload/205_Buku%205%20%20pembiayaan-ilovepdf-compressed.pdf",
+    "kind": "education",
+    "keyFinding": "Flat memakai pokok awal; efektif memakai sisa pinjaman.",
+    "reference": "turn3055347search7",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S6",
+    "name": "Cermati: Katalog KTA",
+    "url": "https://www.cermati.com/kredit-tanpa-agunan/t/semua",
+    "kind": "competitor",
+    "keyFinding": "Input jumlah/tenor, filter bank/jenis, pengurutan cicilan, detail dan pengajuan.",
+    "reference": "turn5076890search1",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S7",
+    "name": "CekAja",
+    "url": "https://cekaja.com/",
+    "kind": "competitor",
+    "keyFinding": "Kategori kredit pribadi, beragunan, kartu kredit dan konsultasi.",
+    "reference": "turn5076890search4",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S8",
+    "name": "Kredit Pintar: Ketentuan layanan",
+    "url": "https://www.kreditpintar.com/terms-of-service",
+    "kind": "competitor",
+    "keyFinding": "LPBBTI dengan proses pengajuan; berbeda dari pembanding produk bank.",
+    "reference": "turn3055347search4",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S9",
+    "name": "OJK: POJK 4/2025 PAJK",
+    "url": "https://ojk.go.id/id/regulasi/Pages/POJK-4-2025-Penyelenggara-Agregasi-Jasa-Keuangan.aspx",
+    "kind": "regulation",
+    "keyFinding": "Cakupan agregasi, perizinan, kerja sama, transparansi, dan larangan PAJK. Sebagian ketentuan telah dicabut peraturan berikutnya.",
+    "reference": "turn2134582view0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S10",
+    "name": "OJK: POJK 16/2025",
+    "url": "https://ojk.go.id/id/regulasi/Pages/POJK-16-Tahun-2025-Penilaian-Kemampuan-dan-Kepatutan-serta-Penilaian-Kembali-bagi-Pihak-Utama-di-Sektor-ITSK-AKD.aspx",
+    "kind": "regulation",
+    "keyFinding": "Penilaian kemampuan/kepatutan pihak utama; mencabut sebagian POJK4/2025.",
+    "reference": "turn2401669search0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S11",
+    "name": "OJK: POJK 30/2025",
+    "url": "https://www.ojk.go.id/id/regulasi/Pages/POJK-Nomor-30-Tahun-2025-Penerapan-Tata-Kelola-dan-Manajemen-Risiko-Bagi-Penyelenggara-Inovasi-Teknologi-Sektor-Keuangan.aspx",
+    "kind": "regulation",
+    "keyFinding": "Tata kelola/manajemen risiko ITSK; berlaku 1 Juli 2026.",
+    "reference": "turn2134582search4",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S12",
+    "name": "OJK: POJK 22/2023",
+    "url": "https://ojk.go.id/id/regulasi/Pages/Pelindungan-Konsumen-dan-Masyarakat-di-Sektor-Jasa-Keuangan.aspx",
+    "kind": "regulation",
+    "keyFinding": "Pelindungan konsumen, kejelasan informasi, pemasaran dan pengaduan.",
+    "reference": "turn2401669view0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S13",
+    "name": "OJK: PADK 37/PADK.08/2025",
+    "url": "https://ojk.go.id/id/regulasi/Pages/PADK-37-PADK08-2025-Penyediaan-Informasi-dan-Penyampaian-Informasi-untuk-Pemasaran-Produk-dan-Layanan-Jasa-Keuangan.aspx",
+    "kind": "regulation",
+    "keyFinding": "Pedoman informasi, pemasaran/RIPLAY, pihak ketiga dan dokumentasi; menggantikan SEOJK12/2014.",
+    "reference": "turn8299466search0",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S14",
+    "name": "JDIH BPK: UU 27/2022 PDP",
+    "url": "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022",
+    "kind": "regulation",
+    "keyFinding": "Data keuangan pribadi termasuk data spesifik; hak subjek dan kewajiban pemrosesan.",
+    "reference": "turn5076890search5",
+    "checkedAt": "2026-11-07",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S15",
+    "name": "OJK: POJK 17 Tahun 2025 — Penawaran Efek melalui Layanan Urun Dana Berbasis Teknologi Informasi",
+    "url": "https://ojk.go.id/id/regulasi/Pages/POJK-17-Tahun-2025-Penawaran-Efek-Melalui-Layanan-Urun-Dana-Berbasis-Teknologi-Informasi.aspx",
+    "kind": "regulation",
+    "keyFinding": "Kerangka SCF meliputi kelembagaan/perizinan penyelenggara, penawaran efek, persyaratan penerbit dan pemodal, mitigasi risiko, tata kelola dan pelindungan pengguna. POJK mencakup efek ekuitas berupa saham serta efek bersifat utang atau sukuk; prototipe ini hanya mensimulasikan saham.",
+    "reference": "turn469582view0; turn669580search12",
+    "checkedAt": "2026-11-10",
+    "sourceType": "primary"
+  },
+  {
+    "id": "S16",
+    "name": "OJK: Financial Institutions Directory (FIND)",
+    "url": "https://find.ojk.go.id/Home",
+    "kind": "verification",
+    "keyFinding": "Direktori resmi untuk menelusuri profil pelaku usaha sektor jasa keuangan dan memeriksa status izin/terdaftar. Pengguna harus memverifikasi status terkini sebelum menggunakan penyelenggara.",
+    "reference": "turn469941search2",
+    "checkedAt": "2026-11-10",
+    "sourceType": "primary"
+  }
+]

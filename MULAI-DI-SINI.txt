@@ -1,0 +1,19 @@
+MODALMATCH — PROTOTIPE OFFLINE
+
+1. Ekstrak seluruh ZIP ke satu folder.
+2. Buka index.html dengan browser modern (Chrome, Edge, Firefox, atau Safari).
+3. Saat pertama kali dibuka, pilih Buat Akun, Masuk jika sudah pernah mendaftar, atau Coba sebagai tamu.
+4. Akun demo hanya tersimpan di browser/perangkat yang sama. Belum ada server akun atau sinkronisasi online. Jangan gunakan kata sandi penting.
+5. Panduan, riset, sumber, dan hasil QA: PANDUAN.md, research.html, dan folder docs/.
+6. Seluruh berkas pendukung harus tetap berada dalam folder ModalMatch.
+7. Jika Node.js tersedia, jalankan `node tests.cjs` dari folder ModalMatch untuk mengulang tes.
+
+Data bank pada katalog adalah data publik yang dikurasi dan diperiksa 7 November 2026; pembaruan dilakukan manual, bukan feed real-time. Profil, pendaftaran, login, sponsor Boost, pembayaran laporan, referral, revenue, kesiapan SCF, dan dilusi saham adalah simulasi/demo. Tidak ada transaksi uang sungguhan, pengajuan bank, atau kemitraan bank yang diklaim.
+
+Model pendapatan sesuai proposal:
+- Laporan ModalMatch: Rp25.000 per laporan.
+- Referral: asumsi komisi Rp50.000 per rujukan yang berhasil dan memenuhi ketentuan mitra.
+- Boost Produk Bank: asumsi Rp500.000 per bank per bulan; target 1, 3, dan 5 bank pada tahun pertama, kedua, dan ketiga.
+- Modal awal Rp9.800.000; iklan digital dan konten media sosial Rp500.000 diambil dari dana cadangan, sehingga cadangan tersisa Rp400.000 dan total modal tetap.
+
+Untuk mencoba Smart Funding Match, gunakan profil UMKM. Fitur membandingkan kredit bank/KUR dengan checklist kesiapan SCF saham. Status hijau/kuning/merah adalah hasil simulasi internal, bukan persetujuan bank atau standar OJK.
